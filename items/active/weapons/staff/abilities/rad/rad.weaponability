@@ -1,0 +1,15 @@
+{
+  "ability" : {
+    "type" : "radiationblast",
+    "name" : "Radiation Blast",
+    "scripts" : ["/items/active/weapons/staff/abilities/effectzone/effectzone.lua"],
+    "class" : "rad",
+
+    "energyCost" : 80,
+
+    "maxCastRange" : 25,
+
+    "projectileType" : "rad",
+    "projectileParameters" : {}
+  }
+}

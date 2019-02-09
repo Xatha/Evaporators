@@ -1,0 +1,10 @@
+{
+  "version" : "1.2",
+  "author" : "Luca",
+  "description" : "This mod adds 4 new mining tools - 10x10, 20x20, 30x30 and 50x50! \nThere are also [Ereaser] versions of these tools, which shouldn't lag, but they don't drop any blocks when mined with these tools. \n\nYou can craft these items at the replicator table, but for a hefty price of 100 - 300 Solarium and Violium!\n\nYou should only use this mod when you've reached the endgame because The Evaporators are extremely overpowered.\n\n[Remember to always backup your character before installing any mod, just to be safe]\n\nThis mod was inspired by the old Mining Laser mod when it still \nhighlighted the block you could destroy.",
+  "path" : ".",
+  "name" : "Evaporators",
+  "steamContentId" : "1111619087",
+  "friendlyName" : "Evaporators",
+  "link" : "steam://url/CommunityFilePage/1111619087"
+}

@@ -1,0 +1,15 @@
+{
+ "input" : [
+  { "item" : "solariumstar", "count" : 200},
+  { "item" : "refinedviolium", "count" : 200},
+  { "item" : "smallbattery", "count" : 10},
+  { "item" : "siliconboard", "count" : 5},
+  { "item" : "battery", "count" : 5},
+  { "item" : "crystal", "count" : 3},
+  { "item" : "teleportercore", "count" : 1},
+  { "item" : "reddye", "count" : 1}
+ ],
+ "output" : { "item" : "m_evaporator30e", "count" : 1},
+ "duration" : 0.5,
+ "groups"  : ["craftinganvil3", "hazardgear", "all"]
+}

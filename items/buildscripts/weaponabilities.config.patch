@@ -1,0 +1,3 @@
+[
+    { "op" : "add","path" : "/radiation","value" : "/items/active/weapons/staff/abilities/rad/rad.weaponability" }
+]

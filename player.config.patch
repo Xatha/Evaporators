@@ -1,0 +1,10 @@
+[
+  { "op":"add", "path": "/defaultBlueprints/tier1/-", "value": { "item": "m_evaporator10"} },
+  { "op":"add", "path": "/defaultBlueprints/tier1/-", "value": { "item": "m_evaporator10e"} },
+  { "op":"add", "path": "/defaultBlueprints/tier1/-", "value": { "item": "m_evaporator20"} },
+  { "op":"add", "path": "/defaultBlueprints/tier1/-", "value": { "item": "m_evaporator20e"} },
+  { "op":"add", "path": "/defaultBlueprints/tier1/-", "value": { "item": "m_evaporator30"} },
+  { "op":"add", "path": "/defaultBlueprints/tier1/-", "value": { "item": "m_evaporator30e"} },
+  { "op":"add", "path": "/defaultBlueprints/tier1/-", "value": { "item": "m_evaporator50"} },
+  { "op":"add", "path": "/defaultBlueprints/tier1/-", "value": { "item": "m_evaporator50e"} }
+]
