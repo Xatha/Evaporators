@@ -1,0 +1,13 @@
+{
+  "name" : "creativejetpack",
+  "type" : "legs",
+
+  "scripts" : ["creativejetpack.lua"],
+
+  "description" : "For all of your cheating needs!",
+  "shortDescription" : "Creative Jetpack!",
+  "rarity" : "Legendary",
+  "icon" : "/tech/jetpack.png",
+
+  "chipCost" : 800
+}

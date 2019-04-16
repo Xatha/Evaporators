@@ -41,7 +41,7 @@
   "minBeamLines" : 1,
   "maxBeamLines" : 5,
 
-  "scripts" : ["/items/tools/miningtools/beamaxe.lua"],
+  "scripts" : ["/items/tools/miningtools/evaporator.lua"],
   "scriptDelta" : 9,
 
   "notifyEntityTime" : 0.5
