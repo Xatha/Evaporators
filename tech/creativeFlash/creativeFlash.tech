@@ -1,0 +1,13 @@
+{
+  "name" : "creativeFlash",
+  "type" : "head",
+
+  "scripts" : ["creativeFlash.lua"],
+
+  "description" : "For all of your cheating needs! Teleports you to your mouse's position.",
+  "shortDescription" : "Flash",
+  "rarity" : "Legendary",
+  "icon" : "/tech/jetpack.png",
+
+  "chipCost" : 800
+}
